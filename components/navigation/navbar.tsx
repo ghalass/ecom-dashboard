@@ -13,7 +13,7 @@ const Navbar = () => {
         </div>
         <div className="flex gap-8 items-center">
           <ModeToggle />
-          <span className="max-md:hidden">Welcome Back Antonio👋</span>
+          <span className="max-md:hidden">Welcome Back Ghalass👋</span>
           <Avatar>
             <AvatarImage src="avatar-image.avif" />
             <AvatarFallback>GH</AvatarFallback>
